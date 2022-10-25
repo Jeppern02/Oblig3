@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="isLeapYearTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-25T12:21:48" hostname="LAPTOP-SV95GP6L" time="0.025">
+  <properties/>
+  <testcase name="yearDevisibleWith4AndNot100IsLeapYear()" classname="isLeapYearTest" time="0.019"/>
+  <testcase name="yearIsDivisibleWith100AndNotWith400()" classname="isLeapYearTest" time="0.001"/>
+  <testcase name="yearNotDevisibleWith4()" classname="isLeapYearTest" time="0.001"/>
+  <testcase name="yearDevisibleWith400IsLeapYear()" classname="isLeapYearTest" time="0.001"/>
+  <testcase name="isLeapYear()" classname="isLeapYearTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
