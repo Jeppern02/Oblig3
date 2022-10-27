@@ -23,7 +23,7 @@ public class Year {
         } else return isDivisibleWith400(year);
     }
 
-//YOYo
+//YOYo ty for helping me
     public void setYear(int i) {
 
     }
