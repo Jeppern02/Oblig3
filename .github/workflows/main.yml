@@ -18,4 +18,4 @@ jobs:
       - name: Give Permission To Gradle
         run: chmod +x ./gradlew
       - name: Build With Gradle 
-        run: ./gradlew
+        run: ./gradlew build
