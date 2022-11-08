@@ -15,5 +15,7 @@ jobs:
           distribution: 'temurin'
           cache: 'gradle'
 
-      - name: Build With Gradle
+      - name: Give Permission To Gradle
         run: chmod +x ./gradlew
+      - name: Build With Gradle 
+        run: ./gradlew
